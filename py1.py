@@ -1,3 +1,4 @@
+### The required libraries in this code are: PySerial, time###
 import serial
 import time
 Arduino = serial.Serial('COM1',9600)
