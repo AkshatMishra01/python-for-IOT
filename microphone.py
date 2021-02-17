@@ -1,4 +1,4 @@
-*** IDE USED -- VISUAL STUDIO CODE (ps:  erase this comment while running it in your own system)****
+#*** IDE USED -- VISUAL STUDIO CODE (ps:  erase this comment while running it in your own system)****
 
 import pyttsx3
 import serial
