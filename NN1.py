@@ -96,3 +96,4 @@ print ("\n")
 myNeuralNetwork.trainNetwork(X, y)
 myNeuralNetwork.saveWeights()
 myNeuralNetwork.predictOutput()
+
